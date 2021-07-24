@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LioBisnar
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML5, CSS3, and Javascript
+- 🌱 I’m currently learning node.js and mongodb
 - 💞️ I’m looking to collaborate on Web Designing
 - 📫 Pls drop me an email if you need me to work with your project lio.bisnar@gmail.com
 
